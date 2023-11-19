@@ -1,0 +1,3 @@
+Framework adalah sesuatu yang merujuk pada sturktur kerja yang telah dirancang dan disusun untuk membantu pengembang 
+dalam membangun aplikasi secara efisien. Framework juga menyediakan kerangka yang dapat digunakan pengembang hingga
+menghasilkan pengembangan yang terstruktur dan cepat.

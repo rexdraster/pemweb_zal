@@ -1,0 +1,12 @@
+1. Tema proyek yang sedang digarap yaitu bertemakan tentang sistem desa dimana point utamanya adalah data/sensus kependudukan.
+
+2. Anggota :
+- Muhammad Rizki Pratama (22416255201202) : jobdesknya merancang sistem dalam web app.
+- Ramadhan Putra Al-kariim (22416255201246) : jobdesknya membuat laporan, timeline serta membantu dalam merancang database.
+- Ahmad Ghozzaly Aulana (22416255201172) : jobdesknya membuat rancangan desain dari web app dan juga merancang database.
+
+3. Permasalahan yang didapat yaitu karena bertemakan desa jadi lebih formal, itu yang membuat agak sulit dikarenakan 
+harus terdaopat tanda tangan user dan juga tanda tangan kepala desa serta harus membuat surat seperti surat KTP/KK. Permasalahannya kurang lebih di logika dalam sistem untuk
+menghubungkan TTD tersebut ke dalam suratnya nanti karena mungkin nanti suratnya akan kita buat secara html. Namun dari kami juga mempunyai solusi akan hal itu, yaitu nanti user yang akan TTD akan kita arahkan ke link 
+untuk TTD digital lalu mengunduhnya, setelah mengunduh TTD tersebut user akan kembali ke dalam web app dan mengunggah 
+TTD-nya di dalam web app.
